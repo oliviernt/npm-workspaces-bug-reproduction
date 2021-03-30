@@ -1,0 +1,15 @@
+{
+  "name": "npm-workspaces-bug-reproduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello" : "echo \"Hello from npm-workspaces-bug-reproduction\""
+  },
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "workspace-a"
+  ]
+}
