@@ -1,4 +1,4 @@
-# NPM Workspaces Docker Bug Reporoduction
+# NPM Workspaces Docker Bug Reproduction
 
 I'm reproducing a bug I'm encountering where npm 7 workspaces don't work the same when run in the official docker node:15 container as when running it locally.
 
